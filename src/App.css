@@ -9,11 +9,6 @@
   text-align: center;
 }
 
-.Resume {
-  border: 4px solid black;
-  height: 758px;
-}
-
 .Header {
   height: 150px;
   background: #338078;
@@ -28,8 +23,14 @@
 .Contact {
   flex: 1;
   background: lightgrey;
+  text-align: right;
+  padding: 20px;
+  padding-top: .5px;
 }
 
 .Experience {
   flex: 2;
+  padding: 20px;
+  padding-top: .5px;
+  text-align: left;
 }
